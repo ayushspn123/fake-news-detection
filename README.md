@@ -64,7 +64,7 @@ The performance of the trained model can be evaluated using various metrics, suc
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any issues or have ideas for improvements, please submit a pull request or open an issue on the repository.
+Contributions to this project  are welcome. If you find any issues or have ideas for improvements, please submit a pull request or open an issue on the repository.
 # Screenshots![Screenshot (215)](https://github.com/ayushspn123/fake-news-detection/assets/78543116/4211086b-153c-40e9-82cb-0abbb9a7452c)
 
 
